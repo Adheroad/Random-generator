@@ -1,0 +1,10 @@
+btn[2].addEventListener("click", () => {
+ 
+});
+btn[3].addEventListener("click", () => {
+  
+});
+
+btn[4].addEventListener("click", () => {
+  
+});
