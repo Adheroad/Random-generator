@@ -6,16 +6,16 @@ let rand = function () {
 };
 
 const image = [
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\download (1).jpg",
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\download (2).jpg",
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\download (3).jpg",
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\download (4).jpg",
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\download (5).jpg",
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\download.jpg",
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\images (1).jpg",
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\images (2).jpg",
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\images (3).jpg",
-  "A:\\Programming\\main\\frontend\\MemeGenerator\\Images\\images.jpg",
+  "Images\\download (2).jpg",
+  "Images\\download (3).jpg",
+  "Images\\download (4).jpg",
+  "Images\\download (5).jpg",
+  "Images\\download (1).jpg",
+  "Images\\download.jpg",
+  "Images\\images (1).jpg",
+  "Images\\images (2).jpg",
+  "Images\\images (3).jpg",
+  "Images\\images.jpg",
 ];
 
 const dadJoke = [
